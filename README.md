@@ -1,7 +1,7 @@
 # java-raycasting-engine
 java raycasting engine
 
-basically turns my C raycasting engine (https://github.com/speedskater1610/rawcasting-engine-in-C) into java. purely did this to help me understand java better before having to learn it next year for school   
+basically turns my [C raycasting engine](https://github.com/speedskater1610/rawcasting-engine-in-C) into java. purely did this to help me understand java better before having to learn it next year for school   
 
 
 ## heres all the stuff I should put blah blah blah blah...
